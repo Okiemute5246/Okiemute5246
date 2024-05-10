@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okiemute5246
 - 👀 I’m interested in BLOCKCHAIN TECHNOLOGY
-- 🌱 I’m currently learning JAVASCRIPT
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on (just a moment)
 - 📫 How to reach me okiemuteorode@hotmail.com
 

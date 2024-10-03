@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Okiemute5246
-- 👀 I’m interested in BLOCKCHAIN TECHNOLOGY
-- 🌱 I’m currently learning PYTHON
+- 👋 Hi, I’m @Okiemute Vadan Ejite-Orode
+- 👀 I’m a Ux Designer
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on (just a moment)
 - 📫 How to reach me okiemuteorode@hotmail.com
 
-<!---
-Okiemute5246/Okiemute5246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am an enthusiastic and creative Ux Designer / No-Code Developer eager to expand my skills. I thrive in environments that encourage growth and development. I am interested in creating accessible products to improve on inclusivity. I excel in wireframing, prototyping, no-code development, User Research and creative design.
+
